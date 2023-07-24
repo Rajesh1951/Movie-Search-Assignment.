@@ -1,15 +1,15 @@
 # Movie-search-assignment
 ## Home
-![image](https://github.com/Rajesh1951/Movie-search-assignment/assets/106857701/e069c962-3ae2-46e4-a998-d1642dd1a4ad)
+![image](https://github.com/Rajesh1951/Movie-Search-Assignment./assets/106857701/62c5eaea-3718-47b7-bbfe-d71508c63bc7)
 
 ## Search
-![image](https://github.com/Rajesh1951/Movie-search-assignment/assets/106857701/acfc6bee-295e-4211-80dd-ec542b854a2d)
+![image](https://github.com/Rajesh1951/Movie-Search-Assignment./assets/106857701/4a304658-7c40-411d-86dc-18adccafdac1)
 
 ## Movie Details
-![image](https://github.com/Rajesh1951/Movie-search-assignment/assets/106857701/92576ea5-1407-4d60-b32a-070a01072253)
+![image](https://github.com/Rajesh1951/Movie-Search-Assignment./assets/106857701/1b5d516c-0372-4162-a666-145bd0df5ef7)
 
 ## Error Handling
-![image](https://github.com/Rajesh1951/Movie-search-assignment/assets/106857701/248e62e9-9b98-4e07-a709-af6aea4657be)
+![image](https://github.com/Rajesh1951/Movie-Search-Assignment./assets/106857701/1cd1d529-327b-4306-a1ca-2afdd272cf50)
 
 ## page not found
-![image](https://github.com/Rajesh1951/Movie-search-assignment/assets/106857701/88abf045-6a30-42b9-baef-c00cf16430ae)
+![image](https://github.com/Rajesh1951/Movie-Search-Assignment./assets/106857701/48feb482-ee9f-4372-bf37-730640d301b7)
